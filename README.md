@@ -1,16 +1,30 @@
-### Hi there 👋
+![Nikos Delis Banner Image](./banner.png)
 
-<!--
-**nikosdelis/nikosdelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey 👋
 
-Here are some ideas to get you started:
+I'm Nikos, I live in Malmö, Sweden and I fix things; mostly within .NET and Azure.
+- Check out my Blog: [https://ndteknik.com](https://ndteknik.com)
+- Listen to my Podcast: [Azure Triumphs](https://open.spotify.com/show/5j97zeCSIqmzmrDKJOhgeE)
+- Meet me in the meetup-group: [Azure Skåne](https://www.meetup.com/azure-skane/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Le work 🧑‍💼
+
+- <i>Currently:</i> Senior Cloud Engineer & Cloud Evangelist @ <a href="helo.se">Helo</a>. 
+- <i>Previously:</i> Senior Cloud Engineer & Azure Guild Lead @ <a href="capgemini.com">Capgemini</a>.
+- <i>In between:</i> A few others, I loved them all.
+- <i>Le start (2013):</i> Junior Software Developer @ <a href="pixlo.se">Mungo Digital</a>.
+
+### Le education 🧑‍🎓
+
+- <b>M.Sc.</b> in Software Engineering
+- <b>B.Sc.</b> in IT & Communications
+
+### Le tech stack 💻
+
+- .NET, Azure
+- if (isReadable && !frontend) then I'm in!
+
+### Drop me a msg 📫
+
+- <a href="https://www.linkedin.com/in/nikos-delis-83435232/">LinkedIn</a>
+- <a href="https://twitter.com/ndteknik">X</a>
