@@ -9,7 +9,7 @@ I'm Nikos, I live in Malmö, Sweden and I fix things; mostly within .NET and Azu
 
 ### Le work 🧑‍💼
 
-- <i>Currently:</i> Senior Cloud Engineer & Cloud Evangelist @ <a href="helo.se">Helo</a>. 
+- <i>Currently:</i> Senior Cloud & Software Engineer / <b>Freelancer</b>. 
 - <i>Previously:</i> Senior Cloud Engineer & Azure Guild Lead @ <a href="capgemini.com">Capgemini</a>.
 - <i>In between:</i> A few others, I loved them all.
 - <i>Le start (2013):</i> Junior Software Developer @ <a href="pixlo.se">Mungo Digital</a>.
